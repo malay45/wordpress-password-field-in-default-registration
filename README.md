@@ -13,4 +13,4 @@ You can find wordpress plugin [AS Password Field In Default Registration Form](h
 
 ## For WordPress Customisation
 
-You can contact me on [mail](solanki.malay@gmail.com) for wordpress customisation
+You can contact me on [mail](mailto:solanki.malay@gmail.com) for wordpress customisation
