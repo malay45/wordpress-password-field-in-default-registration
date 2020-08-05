@@ -1,0 +1,1 @@
+# wordpress-password-field-in-default-registration
